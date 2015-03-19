@@ -1,4 +1,4 @@
-## Summary
+## [Rack Accepts](http://libraries.io/rubygems/rack-accepts)
 
 Rack middleware to reject crappy http accept headers
 Returns '406 Not Acceptable' status when unsupported type is requested.
